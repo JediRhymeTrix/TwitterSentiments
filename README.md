@@ -35,3 +35,5 @@ APIs:
 	        	access_token = '2172451140-4D6obJISbYBvQM0mxa9kaEYY1xMh3flIJVQ3Jmn'
 	        	access_token_secret = 'FbJKBWwO48z5KWBztipDrvlc4l3glXTZKKd5l8hSn6D5M'
 			 
+### Basic Linguistic Analysis approach: 
+Uses a data set formed from simple wordlists to give the overall sentiment of each tweet as a weighted average in the range [0, 1].
