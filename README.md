@@ -36,4 +36,4 @@ APIs:
 	        	access_token_secret = 'FbJKBWwO48z5KWBztipDrvlc4l3glXTZKKd5l8hSn6D5M'
 			 
 ### Basic Linguistic Analysis approach: 
-Uses a data set formed from simple wordlists to give the overall sentiment of each tweet as a weighted average in the range [0, 1].
+Uses a data set formed from simple wordlists to give the overall sentiment of each tweet as a weighted average in the range [0, 1] - where 0 = negative and 1 = positive.
